@@ -1,2 +1,3 @@
-# brgkepler zhuoran
-austria graz brgkepler
+# schüler brgkepler python
+austria graz brgkepler github
+zhuoran
